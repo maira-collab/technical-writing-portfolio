@@ -1,7 +1,5 @@
-# technical-writing-portfolio
-This is my technical writing portfolio. 
+# Maira - Technical Writing Portfolio
+##About :
 <br>
-Index :
-* case studies
-* Explainers
-* Articles
+I write well researched, systems centered technical explainers and case studies.  
+Background : Computer Science Btech
