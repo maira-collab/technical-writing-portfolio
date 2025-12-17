@@ -1,5 +1,4 @@
 # The 2025 Indigo Crisis : Operational Disruptions' Analysis  
-# MAIRA
 
 ## Overview   
 Between 5th December and 12th December, 2025, IndiGo faced a crew and pilot shortage. It was unable to create a functioning roster that adhered to the new Directorate of Civil Aviations'(DGCA) Flight Duty Time Limitations (FDTL) regulations. Hence, there were 5,000+ flights cancelled during this period, thousands more delayed. Its market share dropped from 65% by 17% by 5th December. 
