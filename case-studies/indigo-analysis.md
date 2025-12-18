@@ -17,4 +17,14 @@ Between 5th December and 12th December, 2025, IndiGo faced a crew and pilot shor
 * Airlines push for more time, hence adaption divided into two parts,
   * Phase 1, implemented by 1st July, 2025
   * Phase 2, implemented by 1st November, 2025
-* 
+* IndiGo succesfully completed phase 1, but was unable to complete phase 2 in time.
+* As a result, started suffering delays. On time report dropped to 63.4% (November) from 87.2%(October)
+* On December 5th,
+   * massive air traffic congestion
+   * technical issues
+   * Hurricane in south
+   * Fog problems in Delhi, Lucknow airports
+   * Inefficient crew and pilot rosters
+   * pilot shortage
+ all came together to cause massive flight cancellations. Within a week, there were nearly 2,000 flights cancelled.
+* Seeing the situation, DGCA allowed a temporary exemption to IndiGo until Februrary 10th, 2026. However, IndiGo would have to submit reports to DGCA uevery fortnight until then. 
